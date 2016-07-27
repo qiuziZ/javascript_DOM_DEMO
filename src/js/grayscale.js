@@ -11,9 +11,11 @@ function convertToGS(img) {
 
 	//在onmouseover、out事件发生时切换图片
 	img.onmouseover = function(){
-		this.src = this.grayscale;
+		this.src = this.color;
 	}
-	img.onmouseout();
+	img.onmouseout = function(){
+		this.src = this.grayscale;
+	};
 
 }
 
