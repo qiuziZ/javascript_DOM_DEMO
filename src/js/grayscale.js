@@ -37,7 +37,7 @@ function createGSCanvas(img){
 		}
 	}
 
-	ctx.putImageData(c,0,0,0, c.width, c.height);
+	ctx.putImageData(c,0,0,0,0, c.width, c.height);
 	return canvas.toDataURL();
 }
 
