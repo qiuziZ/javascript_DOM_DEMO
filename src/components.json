@@ -1,0 +1,27 @@
+[
+  {
+    "title": "apidoc",
+    "url": "http://apidoc.platform.shuyun.com",
+    "description": "REST API文档管理系统"
+  },
+  {
+    "title": "gitlab",
+    "url": "http://gitlab.platform.shuyun.com",
+    "description": "gitlab源码管理"
+  },
+  {
+    "title": "spectrum",
+    "url": "http://spectrun.platform.shuyun.com",
+    "description": "配置管理系统"
+  },
+  {
+    "title": "sirius",
+    "url": "http://sirius.platform.shuyun.com",
+    "description": "交付系统"
+  },
+  {
+    "title": "log",
+    "url": "http://log.platform.shuyun.com",
+    "description": "日志查询系统"
+  }
+]
